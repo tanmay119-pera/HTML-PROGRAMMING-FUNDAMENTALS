@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="160" height="160" alt="HTML5 Main Badge" />
-  </a>
-</p>
+
 
 <p align="center">
   <img src="banner.png" width="100%" alt="Master HTML5 Programming Banner" style="border-radius: 12px;" />
