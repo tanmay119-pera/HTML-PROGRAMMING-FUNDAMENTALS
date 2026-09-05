@@ -21,37 +21,32 @@
 
 ---
 
-## 🧭 Repository Navigation
+## 🧭 Repository Navigation Hub
 
-```
-📁 HTML-Learning-beginners-
-├── 📂 CH-1-Basic/         # 🚀 Foundations, Syntax, Boilerplate & DOM Tree
-│   ├── 📄 index.html
-│   └── 📘 README.md
-├── 📂 CH-2-Tags/          # 🏷️ Text Formatting, Lists, Links & Media Elements
-│   ├── 📄 index.html
-│   └── 📘 README.md
-├── 📂 CH-3-Layout/        # 📐 Semantic Containers, Div/Span & Multi-page Linking
-│   ├── 📄 index.html
-│   ├── 📄 info.html
-│   └── 📘 README.md
-├── 📂 CH-4-Forms/         # 📝 User Input, Controls, Form Validation & Actions
-│   ├── 📄 index.html
-│   ├── 📄 info.html
-│   └── 📘 README.md
-├── 📂 CH-5-SEO/           # 🔍 Metadata, Open Graph, Crawlers & Web Accessibility
-│   ├── 📄 SEO.html
-│   └── 📘 README.md
-├── 📂 PROJECT 1/          # 🏆 Capstone Real-World Responsive Web Application
-│   ├── 📁 css/
-│   ├── 📁 js/
-│   ├── 📄 index.html
-│   └── 📘 README.md
-├── 🖼️ banner.png          # 🎨 Course Hero Banner (Right Inside Code Repo)
-├── 📄 .gitignore          # 🚫 Git Ignore Rules
-└── 📘 README.md           # 🌟 Master Repository Guide (You Are Here)
-```
+| Module | Core Topics & Focus Areas | Included Files | Level | Quick Access |
+| :--- | :--- | :--- | :---: | :---: |
+| 🚀 **[CH-1-Basic](./CH-1-Basic/)** | Document Skeleton, DOCTYPE, DOM Tree, Emmet `!`, Chrome DevTools | [`index.html`](./CH-1-Basic/index.html) • [`README.md`](./CH-1-Basic/README.md) | `Beginner` | [**Explore Chapter ➔**](./CH-1-Basic/) |
+| 🏷️ **[CH-2-Tags](./CH-2-Tags/)** | Headings `<h1>-<h6>`, Text Formatting, Lists (`ol`, `ul`), Links `<a>`, Media `<img>` | [`index.html`](./CH-2-Tags/index.html) • [`README.md`](./CH-2-Tags/README.md) | `Beginner` | [**Explore Chapter ➔**](./CH-2-Tags/) |
+| 📐 **[CH-3-Layout](./CH-3-Layout/)** | Semantic Architecture (`header`, `main`, `nav`, `footer`), Block vs Inline, Multi-page Routing | [`index.html`](./CH-3-Layout/index.html) • [`info.html`](./CH-3-Layout/info.html) • [`README.md`](./CH-3-Layout/README.md) | `Intermediate` | [**Explore Chapter ➔**](./CH-3-Layout/) |
+| 📝 **[CH-4-Forms](./CH-4-Forms/)** | Interactive Form Controls, Validation, `label`, Textarea, Dropdowns, GET/POST | [`index.html`](./CH-4-Forms/index.html) • [`info.html`](./CH-4-Forms/info.html) • [`README.md`](./CH-4-Forms/README.md) | `Intermediate` | [**Explore Chapter ➔**](./CH-4-Forms/) |
+| 🔍 **[CH-5-SEO](./CH-5-SEO/)** | Meta Tags, Open Graph Previews, Googlebot Crawling, Hierarchy, Accessibility (A11y) | [`SEO.html`](./CH-5-SEO/SEO.html) • [`README.md`](./CH-5-SEO/README.md) | `Advanced` | [**Explore Chapter ➔**](./CH-5-SEO/) |
+| 🏆 **[PROJECT 1](./PROJECT%201/)** | Full Real-World Responsive Web App combining HTML5 Structure, CSS3 & JavaScript | [`css/`](./PROJECT%201/css/) • [`js/`](./PROJECT%201/js/) • [`index.html`](./PROJECT%201/index.html) • [`README.md`](./PROJECT%201/README.md) | `Capstone` | [**Launch Project ➔**](./PROJECT%201/) |
 
+<details>
+<summary><b>📂 Quick Jump Directory Index (Click to Expand)</b></summary>
+
+<br>
+
+| Folder | Direct Links | Purpose |
+| :--- | :--- | :--- |
+| **`CH-1-Basic/`** | [📁 Folder](./CH-1-Basic/) • [📄 index.html](./CH-1-Basic/index.html) • [📘 Notes](./CH-1-Basic/README.md) | HTML5 Foundations & Hello World |
+| **`CH-2-Tags/`** | [📁 Folder](./CH-2-Tags/) • [📄 index.html](./CH-2-Tags/index.html) • [📘 Notes](./CH-2-Tags/README.md) | Tag Vocabulary & Typography |
+| **`CH-3-Layout/`** | [📁 Folder](./CH-3-Layout/) • [📄 index.html](./CH-3-Layout/index.html) • [📄 info.html](./CH-3-Layout/info.html) • [📘 Notes](./CH-3-Layout/README.md) | Semantic Architecture & Multi-Page |
+| **`CH-4-Forms/`** | [📁 Folder](./CH-4-Forms/) • [📄 index.html](./CH-4-Forms/index.html) • [📄 info.html](./CH-4-Forms/info.html) • [📘 Notes](./CH-4-Forms/README.md) | User Input, Controls & Validation |
+| **`CH-5-SEO/`** | [📁 Folder](./CH-5-SEO/) • [📄 SEO.html](./CH-5-SEO/SEO.html) • [📘 Notes](./CH-5-SEO/README.md) | Search Engine Optimization & A11y |
+| **`PROJECT 1/`** | [📁 Folder](./PROJECT%201/) • [🎨 CSS](./PROJECT%201/css/) • [⚡ JS](./PROJECT%201/js/) • [📄 index.html](./PROJECT%201/index.html) • [📘 Notes](./PROJECT%201/README.md) | Complete Capstone Web Application |
+
+</details>
 
 ---
 
@@ -261,6 +256,33 @@ code .
 
 ---
 
+## 👨‍💻 About the Author
+
+<div align="center">
+
+  <h2>Tanmay (Adesh Srivastava)</h2>
+  <p><strong>Agentic AI Developer • Web & Software Engineer • Open-Source Creator</strong></p>
+
+  <p>
+    <a href="https://github.com/tanmay119-pera"><img src="https://img.shields.io/badge/GitHub-tanmay119--pera-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" /></a>
+    <a href="mailto:tanmay.w119@gmail.com"><img src="https://img.shields.io/badge/Email-tanmay.w119@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://github.com/tanmay119-pera/HTML-Learning-beginners-"><img src="https://img.shields.io/badge/Repo-HTML--Learning--beginners--orange?style=for-the-badge&logo=git&logoColor=white" alt="Repo" /></a>
+  </p>
+
+  <p>
+    <em>"Building autonomous AI systems, intelligent agentic workflows, and modern web architectures."</em>
+  </p>
+
+  <p>
+    ⭐ <strong>Found this course valuable? Don't forget to star the repository to support future chapters!</strong> ⭐
+  </p>
+
+</div>
+
+---
+
 <p align="center">
-  <sub>Built with ❤️ for passionate learners mastering the Web • Happy Coding! 🚀</sub>
+  <sub>Built with ❤️ by <b>Tanmay (Adesh Srivastava)</b> for passionate learners mastering the Web • Happy Coding! 🚀</sub>
 </p>
+
+
