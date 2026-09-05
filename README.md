@@ -8,7 +8,6 @@
   <img src="banner.png" width="100%" alt="Master HTML5 Programming Banner" style="border-radius: 12px;" />
 </p>
 
-<h1 align="center">🌐 &lt;HTML&gt; PROGRAMMING 🚀</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F97316&center=true&vCenter=true&width=800&lines=%3C!DOCTYPE+html%3E;Master+HTML5+from+Basics+to+SEO+%26+Projects;Build+Modern%2C+Semantic%2C+Accessible+Websites!" alt="Typing SVG Banner" />
 </p>
